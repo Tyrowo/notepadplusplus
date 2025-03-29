@@ -295,6 +295,7 @@ References:
       <WordsStyle name="OPERATOR" styleID="10" fgColor="81A1C1" bgColor="2E3440" fontStyle="0" />
       <WordsStyle name="IDENTIFIER" styleID="11" fgColor="D8DEE9" bgColor="2E3440" fontStyle="0" />
       <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="616E88" bgColor="2E3440" fontStyle="0" />
+      <WordsStyle name="BUILTINS" styleID="14" fgColor="FFAA82" bgColor="2E3440" fontName="" fontStyle="0" keywordClass="instre2" />
       <WordsStyle name="STRINGEOL" styleID="12" fgColor="A3BE8C" bgColor="2E3440" fontStyle="0" />
     </LexerType>
     <LexerType name="ruby" desc="Ruby" ext="">
